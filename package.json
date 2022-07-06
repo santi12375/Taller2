@@ -5,7 +5,7 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "git": "^0.1.5",
-    "jquery-validation": "^1.19.0",
+    "jquery-validation": "^1.19.5",
     "popper.js": "^1.15.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
